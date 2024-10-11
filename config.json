@@ -1,0 +1,41 @@
+{
+    "aug22_dec23_column_map": {
+        "Utility - Type": "utility_type",
+        "Utility - Name": "utility_name",
+        "Indicate the Monthly Reporting Period that you are submitting now.": "reporting_period",
+        "1. Number of active North Carolina residential customer accounts? Please include as \"active,\" the residential customers that were disconnected for non-payment during the month).": "accounts",
+        "2. The number of \"vulnerable\" residential customer accounts who qualify for the winter disconnection moratorium (see Commission Rules R12-10(h)(6) and R12-11(l))(6)).": "vulnerable_accounts",
+        "3. Number of active North Carolina residential customer accounts enrolled in repayment plans and the balance of those payment plans: - Number of residential accounts enrolled in repayment plans": "repayment_plan_accounts",
+        "3. Number of active North Carolina residential customer accounts enrolled in repayment plans and the balance of those payment plans: - Outstanding balance of all residential account repayment plans ($)": "total_repayment_plan_balance",
+        "4. Number of active residential customer accounts considered past due or delinquent based on Commission Rules.": "past_due_accounts",
+        "5. Number of active residential customer accounts 30+ days in arrears and the amount of those arrears for customers not on payment plans: - Number of residential accounts with balances of 30+ days (#)": "thirty_to_sixty_day_arrears_accounts_no_rp",
+        "5. Number of active residential customer accounts 30+ days in arrears and the amount of those arrears for customers not on payment plans: - Total residential account arrears 30+ days ($)": "thirty_to_sixty_day_arrears_balance_no_rp",
+        "6. Number of active residential customer accounts 30+ days in arrears and the amount of those arrears for customers enrolled in payment plans: - Number of residential accounts with balances of 30+ days (#)": "thirty_to_sixty_day_arrears_accounts_rp",
+        "6. Number of active residential customer accounts 30+ days in arrears and the amount of those arrears for customers enrolled in payment plans: - Total residential account arrears 30+days ($)": "thirty_to_sixty_day_arrears_balance_rp",
+        "7. Number of active residential customer accounts 60+ days in arrears and the amount of those arrears for customers not on payment plans: - Number of residential accounts with balances of 60+ days (#)": "sixty_day_arrears_accounts_no_rp",
+        "7. Number of active residential customer accounts 60+ days in arrears and the amount of those arrears for customers not on payment plans: - Total residential account arrears 60+days ($)": "sixty_day_arrears_balance_no_rp",
+        "8. Number of active residential customer accounts 60+ days in arrears and the amount of those arrears for customers enrolled in payment plans: - Number of residential accounts with balances of 60+ days (#)": "sixty_day_arrears_accounts_rp",
+        "8. Number of active residential customer accounts 60+ days in arrears and the amount of those arrears for customers enrolled in payment plans: - Total residential account arrears 60+ days ($)": "sixty_day_arrears_balance_rp",
+        "9. Number of residential customer accounts who were notified in some way during the month of their eligibility for disconnection (received disconnection notices):": "accounts_notified_before_disconnection",
+        "10. Number of residential customer accounts disconnected for nonpayment during the month: - Total number of customer disconnections": "accounts_disconnected",
+        "10. Number of residential customer accounts disconnected for nonpayment during the month: - Number of disconnections for customers designated as vulnerable.": "vulnerable_accounts_disconnected",
+        "11. Number of residential customer accounts disconnected that remained disconnected for the following periods of time: - Less than 24 hours": "accounts_disconnected_<24h",
+        "11. Number of residential customer accounts disconnected that remained disconnected for the following periods of time: - Between 24 and 48 hours": "accounts_disconnected_24h_to_48h",
+        "11. Number of residential customer accounts disconnected that remained disconnected for the following periods of time: - More than 48 hours": "accounts_disconnected_>48h",
+        "12. The number of residential customer accounts that were disconnected that were previously disconnected at the same residence (i.e., the same residential account at the same address) during the previous 12 months).": "accounts_disconnected_multiple_times",
+        "13. Average reconnection time (hours)  from the time account payment (or other satisfactory payment arrangement) was made to time-of-service restoration during the reporting period:": "average_reconnection_time"
+    },
+    "feb22_jul22_column_map": {
+        "Q4": "reporting_period",
+        "Q5_1": "utility_type",
+        "Q5_2": "utility_name",
+        "Q13_7": "accounts",
+        "Q25_7": "accounts_disconnected",
+        "Q16_7": "past_due_accounts",
+        "Q17_7": "thirty_day_arrears_balance_total",
+        "Q20_7": "repayment_plan_accounts",
+        "Q21_7": "repayment_plan_accounts_good_standing",
+        "Q22_7": "total_repayment_plan_balance",
+        "Q27_7": "accounts_disconnected_<24h"
+    }
+}

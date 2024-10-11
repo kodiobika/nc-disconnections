@@ -1,0 +1,907 @@
+utility_name,year,month,disconnections,disconnection_rate
+Duke Energy Carolinas,1996,July,4588,
+Duke Energy Carolinas,1996,August,4332,
+Duke Energy Carolinas,1996,September,4144,
+Duke Energy Carolinas,1996,October,4826,
+Duke Energy Carolinas,1996,November,4564,
+Duke Energy Carolinas,1996,December,2662,
+Duke Energy Carolinas,1997,January,4508,
+Duke Energy Carolinas,1997,February,4853,
+Duke Energy Carolinas,1997,March,5973,
+Duke Energy Carolinas,1997,April,7304,
+Duke Energy Carolinas,1997,May,6353,
+Duke Energy Carolinas,1997,June,5491,
+Duke Energy Carolinas,1997,July,5490,
+Duke Energy Carolinas,1997,August,5139,
+Duke Energy Carolinas,1997,September,5898,
+Duke Energy Carolinas,1997,October,6801,
+Duke Energy Carolinas,1997,November,6274,
+Duke Energy Carolinas,1997,December,4762,
+Duke Energy Carolinas,1998,January,5408,
+Duke Energy Carolinas,1998,February,6304,
+Duke Energy Carolinas,1998,March,7685,
+Duke Energy Carolinas,1998,April,7356,
+Duke Energy Carolinas,1998,May,6116,
+Duke Energy Carolinas,1998,June,4906,
+Duke Energy Carolinas,1998,July,4656,
+Duke Energy Carolinas,1998,August,5411,
+Duke Energy Carolinas,1998,September,5702,
+Duke Energy Carolinas,1998,October,5842,
+Duke Energy Carolinas,1998,November,,
+Duke Energy Carolinas,1998,December,,
+Duke Energy Carolinas,1999,January,4504,
+Duke Energy Carolinas,1999,February,,
+Duke Energy Carolinas,1999,March,,
+Duke Energy Carolinas,1999,April,,
+Duke Energy Carolinas,1999,May,6483,
+Duke Energy Carolinas,1999,June,6743,
+Duke Energy Carolinas,1999,July,4469,
+Duke Energy Carolinas,1999,August,7045,
+Duke Energy Carolinas,1999,September,5167,
+Duke Energy Carolinas,1999,October,,
+Duke Energy Carolinas,1999,November,6329,
+Duke Energy Carolinas,1999,December,5516,
+Duke Energy Carolinas,2000,January,3221,
+Duke Energy Carolinas,2000,February,13275,
+Duke Energy Carolinas,2000,March,7426,
+Duke Energy Carolinas,2000,April,13856,
+Duke Energy Carolinas,2000,May,14453,
+Duke Energy Carolinas,2000,June,7952,
+Duke Energy Carolinas,2000,July,7380,
+Duke Energy Carolinas,2000,August,12038,
+Duke Energy Carolinas,2000,September,12722,
+Duke Energy Carolinas,2000,October,15999,
+Duke Energy Carolinas,2000,November,9946,
+Duke Energy Carolinas,2000,December,7556,
+Duke Energy Carolinas,2001,January,140,
+Duke Energy Carolinas,2001,February,18,
+Duke Energy Carolinas,2001,March,16443,
+Duke Energy Carolinas,2001,April,15357,
+Duke Energy Carolinas,2001,May,14496,
+Duke Energy Carolinas,2001,June,7905,
+Duke Energy Carolinas,2001,July,7297,
+Duke Energy Carolinas,2001,August,,
+Duke Energy Carolinas,2001,September,8932,
+Duke Energy Carolinas,2001,October,16084,
+Duke Energy Carolinas,2001,November,12298,
+Duke Energy Carolinas,2001,December,7968,
+Duke Energy Carolinas,2002,January,10791,
+Duke Energy Carolinas,2002,February,9773,
+Duke Energy Carolinas,2002,March,17712,
+Duke Energy Carolinas,2002,April,17652,
+Duke Energy Carolinas,2002,May,13825,
+Duke Energy Carolinas,2002,June,14411,
+Duke Energy Carolinas,2002,July,10987,
+Duke Energy Carolinas,2002,August,14947,
+Duke Energy Carolinas,2002,September,17830,
+Duke Energy Carolinas,2002,October,23107,
+Duke Energy Carolinas,2002,November,14868,
+Duke Energy Carolinas,2002,December,2005,
+Duke Energy Carolinas,2003,January,15761,
+Duke Energy Carolinas,2003,February,12646,
+Duke Energy Carolinas,2003,March,11864,
+Duke Energy Carolinas,2003,April,11690,
+Duke Energy Carolinas,2003,May,12844,
+Duke Energy Carolinas,2003,June,10324,
+Duke Energy Carolinas,2003,July,9431,
+Duke Energy Carolinas,2003,August,10911,
+Duke Energy Carolinas,2003,September,,
+Duke Energy Carolinas,2003,October,9360,
+Duke Energy Carolinas,2003,November,7724,
+Duke Energy Carolinas,2003,December,6328,
+Duke Energy Carolinas,2004,January,3857,
+Duke Energy Carolinas,2004,February,7755,
+Duke Energy Carolinas,2004,March,8832,
+Duke Energy Carolinas,2004,April,7641,
+Duke Energy Carolinas,2004,May,8863,
+Duke Energy Carolinas,2004,June,8792,
+Duke Energy Carolinas,2004,July,7093,
+Duke Energy Carolinas,2004,August,8052,
+Duke Energy Carolinas,2004,September,9669,
+Duke Energy Carolinas,2004,October,9785,
+Duke Energy Carolinas,2004,November,8248,
+Duke Energy Carolinas,2004,December,4328,
+Duke Energy Carolinas,2005,January,0,
+Duke Energy Carolinas,2005,February,4092,
+Duke Energy Carolinas,2005,March,8089,
+Duke Energy Carolinas,2005,April,9583,
+Duke Energy Carolinas,2005,May,10095,
+Duke Energy Carolinas,2005,June,9113,
+Duke Energy Carolinas,2005,July,6196,
+Duke Energy Carolinas,2005,August,8809,
+Duke Energy Carolinas,2005,September,7999,
+Duke Energy Carolinas,2005,October,10629,
+Duke Energy Carolinas,2005,November,10093,
+Duke Energy Carolinas,2005,December,3836,
+Duke Energy Carolinas,2006,January,10421,
+Duke Energy Carolinas,2006,February,8824,
+Duke Energy Carolinas,2006,March,10827,
+Duke Energy Carolinas,2006,April,9156,
+Duke Energy Carolinas,2006,May,11905,
+Duke Energy Carolinas,2006,June,10158,
+Duke Energy Carolinas,2006,July,7867,
+Duke Energy Carolinas,2006,August,9078,
+Duke Energy Carolinas,2006,September,9063,
+Duke Energy Carolinas,2006,October,12327,
+Duke Energy Carolinas,2006,November,11553,
+Duke Energy Carolinas,2006,December,9070,
+Duke Energy Carolinas,2007,January,8524,
+Duke Energy Carolinas,2007,February,8626,
+Duke Energy Carolinas,2007,March,11874,
+Duke Energy Carolinas,2007,April,9148,
+Duke Energy Carolinas,2007,May,13649,
+Duke Energy Carolinas,2007,June,10278,
+Duke Energy Carolinas,2007,July,9962,
+Duke Energy Carolinas,2007,August,10158,
+Duke Energy Carolinas,2007,September,10667,
+Duke Energy Carolinas,2007,October,14393,
+Duke Energy Carolinas,2007,November,12584,
+Duke Energy Carolinas,2007,December,9983,
+Duke Energy Carolinas,2008,January,10593,
+Duke Energy Carolinas,2008,February,9343,
+Duke Energy Carolinas,2008,March,10972,
+Duke Energy Carolinas,2008,April,12591,
+Duke Energy Carolinas,2008,May,11913,
+Duke Energy Carolinas,2008,June,11118,
+Duke Energy Carolinas,2008,July,10715,
+Duke Energy Carolinas,2008,August,10003,
+Duke Energy Carolinas,2008,September,12892,
+Duke Energy Carolinas,2008,October,14290,
+Duke Energy Carolinas,2008,November,10635,
+Duke Energy Carolinas,2008,December,11121,
+Duke Energy Carolinas,2009,January,7665,
+Duke Energy Carolinas,2009,February,10292,
+Duke Energy Carolinas,2009,March,13890,
+Duke Energy Carolinas,2009,April,13785,
+Duke Energy Carolinas,2009,May,13210,
+Duke Energy Carolinas,2009,June,13828,
+Duke Energy Carolinas,2009,July,10441,
+Duke Energy Carolinas,2009,August,11271,
+Duke Energy Carolinas,2009,September,14291,
+Duke Energy Carolinas,2009,October,13374,
+Duke Energy Carolinas,2009,November,12069,
+Duke Energy Carolinas,2009,December,10688,
+Duke Energy Carolinas,2010,January,8612,0.54
+Duke Energy Carolinas,2010,February,7550,0.48
+Duke Energy Carolinas,2010,March,14735,0.93
+Duke Energy Carolinas,2010,April,12739,0.81
+Duke Energy Carolinas,2010,May,15240,0.96
+Duke Energy Carolinas,2010,June,14233,0.9
+Duke Energy Carolinas,2010,July,10049,0.64
+Duke Energy Carolinas,2010,August,10603,0.67
+Duke Energy Carolinas,2010,September,13693,0.87
+Duke Energy Carolinas,2010,October,14142,0.89
+Duke Energy Carolinas,2010,November,13869,0.88
+Duke Energy Carolinas,2010,December,3844,0.24
+Duke Energy Carolinas,2011,January,9475,0.6
+Duke Energy Carolinas,2011,February,11712,0.74
+Duke Energy Carolinas,2011,March,13100,0.83
+Duke Energy Carolinas,2011,April,,
+Duke Energy Carolinas,2011,May,13528,0.85
+Duke Energy Carolinas,2011,June,,
+Duke Energy Carolinas,2011,July,8913,0.56
+Duke Energy Carolinas,2011,August,13052,0.82
+Duke Energy Carolinas,2011,September,13157,0.83
+Duke Energy Carolinas,2011,October,14725,0.93
+Duke Energy Carolinas,2011,November,13354,0.84
+Duke Energy Carolinas,2011,December,10861,0.68
+Duke Energy Carolinas,2012,January,10899,0.68
+Duke Energy Carolinas,2012,February,10673,0.67
+Duke Energy Carolinas,2012,March,10904,0.68
+Duke Energy Carolinas,2012,April,10962,0.69
+Duke Energy Carolinas,2012,May,13477,0.84
+Duke Energy Carolinas,2012,June,11078,0.69
+Duke Energy Carolinas,2012,July,,
+Duke Energy Carolinas,2012,August,11847,0.74
+Duke Energy Carolinas,2012,September,,
+Duke Energy Carolinas,2012,October,15757,0.99
+Duke Energy Carolinas,2012,November,12612,0.79
+Duke Energy Carolinas,2012,December,9816,0.61
+Duke Energy Carolinas,2013,January,9816,0.61
+Duke Energy Carolinas,2013,February,11753,0.73
+Duke Energy Carolinas,2013,March,10477,0.65
+Duke Energy Carolinas,2013,April,12923,0.8
+Duke Energy Carolinas,2013,May,12730,0.79
+Duke Energy Carolinas,2013,June,12907,0.8
+Duke Energy Carolinas,2013,July,12111,0.75
+Duke Energy Carolinas,2013,August,11610,0.72
+Duke Energy Carolinas,2013,September,12618,0.78
+Duke Energy Carolinas,2013,October,15586,0.97
+Duke Energy Carolinas,2013,November,11348,0.71
+Duke Energy Carolinas,2013,December,10515,0.65
+Duke Energy Carolinas,2014,January,6290,0.39
+Duke Energy Carolinas,2014,February,10634,0.65
+Duke Energy Carolinas,2014,March,13027,0.8
+Duke Energy Carolinas,2014,April,13109,0.81
+Duke Energy Carolinas,2014,May,12980,0.8
+Duke Energy Carolinas,2014,June,12646,0.78
+Duke Energy Carolinas,2014,July,9973,0.61
+Duke Energy Carolinas,2014,August,8791,0.54
+Duke Energy Carolinas,2014,September,11028,0.68
+Duke Energy Carolinas,2014,October,11220,0.69
+Duke Energy Carolinas,2014,November,9290,0.57
+Duke Energy Carolinas,2014,December,9857,0.61
+Duke Energy Carolinas,2015,January,7644,0.46
+Duke Energy Carolinas,2015,February,4703,0.29
+Duke Energy Carolinas,2015,March,12925,0.78
+Duke Energy Carolinas,2015,April,11711,0.71
+Duke Energy Carolinas,2015,May,11198,0.68
+Duke Energy Carolinas,2015,June,10386,0.63
+Duke Energy Carolinas,2015,July,8994,0.55
+Duke Energy Carolinas,2015,August,9697,0.59
+Duke Energy Carolinas,2015,September,12746,0.77
+Duke Energy Carolinas,2015,October,12534,0.76
+Duke Energy Carolinas,2015,November,9342,0.57
+Duke Energy Carolinas,2015,December,9062,0.55
+Duke Energy Carolinas,2016,January,4948,0.3
+Duke Energy Carolinas,2016,February,8512,0.51
+Duke Energy Carolinas,2016,March,10013,0.6
+Duke Energy Carolinas,2016,April,10470,0.63
+Duke Energy Carolinas,2016,May,11346,0.68
+Duke Energy Carolinas,2016,June,9401,0.56
+Duke Energy Carolinas,2016,July,8604,0.52
+Duke Energy Carolinas,2016,August,9285,0.56
+Duke Energy Carolinas,2016,September,9720,0.58
+Duke Energy Carolinas,2016,October,7920,0.47
+Duke Energy Carolinas,2016,November,9371,0.56
+Duke Energy Carolinas,2016,December,7363,0.44
+Duke Energy Carolinas,2017,January,8311,0.49
+Duke Energy Carolinas,2017,February,9486,0.56
+Duke Energy Carolinas,2017,March,10188,0.6
+Duke Energy Carolinas,2017,April,8095,0.48
+Duke Energy Carolinas,2017,May,10337,0.61
+Duke Energy Carolinas,2017,June,9946,0.59
+Duke Energy Carolinas,2017,July,7812,0.46
+Duke Energy Carolinas,2017,August,9871,0.58
+Duke Energy Carolinas,2017,September,7437,0.44
+Duke Energy Carolinas,2017,October,12891,0.76
+Duke Energy Carolinas,2017,November,6274,0.37
+Duke Energy Carolinas,2017,December,8851,0.52
+Duke Energy Carolinas,2018,January,8485,0.49
+Duke Energy Carolinas,2018,February,11528,0.67
+Duke Energy Carolinas,2018,March,11052,0.64
+Duke Energy Carolinas,2018,April,14625,0.85
+Duke Energy Carolinas,2018,May,13604,0.79
+Duke Energy Carolinas,2018,June,11899,0.69
+Duke Energy Carolinas,2018,July,12217,0.71
+Duke Energy Carolinas,2018,August,14009,0.81
+Duke Energy Carolinas,2018,September,5197,0.3
+Duke Energy Carolinas,2018,October,14873,0.86
+Duke Energy Carolinas,2018,November,12229,0.71
+Duke Energy Carolinas,2018,December,5072,0.29
+Duke Energy Carolinas,2019,January,11093,0.63
+Duke Energy Carolinas,2019,February,13921,0.79
+Duke Energy Carolinas,2019,March,13194,0.75
+Duke Energy Carolinas,2019,April,15068,0.86
+Duke Energy Carolinas,2019,May,13588,0.77
+Duke Energy Carolinas,2019,June,10255,0.58
+Duke Energy Carolinas,2019,July,5766,0.33
+Duke Energy Carolinas,2019,August,10876,0.62
+Duke Energy Carolinas,2019,September,10954,0.62
+Duke Energy Carolinas,2019,October,12156,0.69
+Duke Energy Carolinas,2019,November,9417,0.54
+Duke Energy Carolinas,2019,December,8329,0.47
+Duke Energy Carolinas,2020,January,11276,0.64
+Duke Energy Carolinas,2020,February,10752,0.61
+Duke Energy Carolinas,2020,March,5979,0.34
+Duke Energy Carolinas,2020,April,0,0
+Duke Energy Carolinas,2020,May,0,0
+Duke Energy Carolinas,2020,June,0,0
+Duke Energy Carolinas,2020,July,0,0
+Duke Energy Carolinas,2020,August,0,0
+Duke Energy Carolinas,2020,September,0,0
+Duke Energy Carolinas,2020,October,0,0
+Duke Energy Carolinas,2020,November,4185,0.23
+Duke Energy Carolinas,2020,December,5547,0.3
+Duke Energy Carolinas,2021,January,9313,0.51
+Duke Energy Carolinas,2021,February,7810,0.48
+Duke Energy Carolinas,2021,March,0,0
+Duke Energy Carolinas,2021,April,0,0
+Duke Energy Carolinas,2021,May,0,0
+Duke Energy Carolinas,2021,June,0,0
+Duke Energy Carolinas,2021,July,191,0.01
+Duke Energy Carolinas,2021,August,639,0.04
+Duke Energy Carolinas,2021,September,5691,0.31
+Duke Energy Carolinas,2021,October,963,0.05
+Duke Energy Carolinas,2021,November,461,0.03
+Duke Energy Carolinas,2021,December,2258,0.12
+Duke Energy Carolinas,2022,January,1012,0.06
+Duke Energy Carolinas,2022,February,940,0.05
+Duke Energy Carolinas,2022,March,426,0.02
+Duke Energy Carolinas,2022,April,157,0.01
+Duke Energy Carolinas,2022,May,3872,0.21
+Duke Energy Carolinas,2022,June,6207,0.34
+Duke Energy Carolinas,2022,July,6026,0.33
+Duke Energy Carolinas,2022,August,,
+Duke Energy Carolinas,2022,September,,
+Duke Energy Carolinas,2022,October,,
+Duke Energy Progress,1996,July,3865,
+Duke Energy Progress,1996,August,4038,
+Duke Energy Progress,1996,September,504,
+Duke Energy Progress,1996,October,4065,
+Duke Energy Progress,1996,November,5313,
+Duke Energy Progress,1996,December,4556,
+Duke Energy Progress,1997,January,4488,
+Duke Energy Progress,1997,February,4806,
+Duke Energy Progress,1997,March,4737,
+Duke Energy Progress,1997,April,5592,
+Duke Energy Progress,1997,May,4648,
+Duke Energy Progress,1997,June,4620,
+Duke Energy Progress,1997,July,4463,
+Duke Energy Progress,1997,August,4353,
+Duke Energy Progress,1997,September,5242,
+Duke Energy Progress,1997,October,6548,
+Duke Energy Progress,1997,November,5436,
+Duke Energy Progress,1997,December,3622,
+Duke Energy Progress,1998,January,5623,
+Duke Energy Progress,1998,February,5559,
+Duke Energy Progress,1998,March,5664,
+Duke Energy Progress,1998,April,6516,
+Duke Energy Progress,1998,May,8405,
+Duke Energy Progress,1998,June,5961,
+Duke Energy Progress,1998,July,4558,
+Duke Energy Progress,1998,August,3845,
+Duke Energy Progress,1998,September,8091,
+Duke Energy Progress,1998,October,7134,
+Duke Energy Progress,1998,November,6094,
+Duke Energy Progress,1998,December,5319,
+Duke Energy Progress,1999,January,4825,
+Duke Energy Progress,1999,February,4882,
+Duke Energy Progress,1999,March,5579,
+Duke Energy Progress,1999,April,6730,
+Duke Energy Progress,1999,May,5963,
+Duke Energy Progress,1999,June,6241,
+Duke Energy Progress,1999,July,3454,
+Duke Energy Progress,1999,August,594,
+Duke Energy Progress,1999,September,,
+Duke Energy Progress,1999,October,6846,
+Duke Energy Progress,1999,November,7610,
+Duke Energy Progress,1999,December,6832,
+Duke Energy Progress,2000,January,3714,
+Duke Energy Progress,2000,February,3472,
+Duke Energy Progress,2000,March,985,
+Duke Energy Progress,2000,April,6466,
+Duke Energy Progress,2000,May,6652,
+Duke Energy Progress,2000,June,5486,
+Duke Energy Progress,2000,July,5899,
+Duke Energy Progress,2000,August,6360,
+Duke Energy Progress,2000,September,,
+Duke Energy Progress,2000,October,7459,
+Duke Energy Progress,2000,November,,
+Duke Energy Progress,2000,December,5380,
+Duke Energy Progress,2001,January,5634,
+Duke Energy Progress,2001,February,,
+Duke Energy Progress,2001,March,6330,
+Duke Energy Progress,2001,April,1790,
+Duke Energy Progress,2001,May,2834,
+Duke Energy Progress,2001,June,1843,
+Duke Energy Progress,2001,July,,
+Duke Energy Progress,2001,August,602,
+Duke Energy Progress,2001,September,426,
+Duke Energy Progress,2001,October,384,
+Duke Energy Progress,2001,November,245,
+Duke Energy Progress,2001,December,287,
+Duke Energy Progress,2002,January,,
+Duke Energy Progress,2002,February,588,
+Duke Energy Progress,2002,March,816,
+Duke Energy Progress,2002,April,6567,
+Duke Energy Progress,2002,May,5952,
+Duke Energy Progress,2002,June,4872,
+Duke Energy Progress,2002,July,4002,
+Duke Energy Progress,2002,August,7250,
+Duke Energy Progress,2002,September,337,
+Duke Energy Progress,2002,October,321,
+Duke Energy Progress,2002,November,240,
+Duke Energy Progress,2002,December,239,
+Duke Energy Progress,2003,January,674,
+Duke Energy Progress,2003,February,606,
+Duke Energy Progress,2003,March,3,
+Duke Energy Progress,2003,April,,
+Duke Energy Progress,2003,May,1873,
+Duke Energy Progress,2003,June,1331,
+Duke Energy Progress,2003,July,864,
+Duke Energy Progress,2003,August,370,
+Duke Energy Progress,2003,September,411,
+Duke Energy Progress,2003,October,,
+Duke Energy Progress,2003,November,6334,
+Duke Energy Progress,2003,December,5636,
+Duke Energy Progress,2004,January,4566,
+Duke Energy Progress,2004,February,5640,
+Duke Energy Progress,2004,March,7743,
+Duke Energy Progress,2004,April,6794,
+Duke Energy Progress,2004,May,7278,
+Duke Energy Progress,2004,June,7392,
+Duke Energy Progress,2004,July,5909,
+Duke Energy Progress,2004,August,7857,
+Duke Energy Progress,2004,September,589,
+Duke Energy Progress,2004,October,7771,
+Duke Energy Progress,2004,November,7136,
+Duke Energy Progress,2004,December,5948,
+Duke Energy Progress,2005,January,5911,
+Duke Energy Progress,2005,February,6118,
+Duke Energy Progress,2005,March,6422,
+Duke Energy Progress,2005,April,6595,
+Duke Energy Progress,2005,May,7133,
+Duke Energy Progress,2005,June,7344,
+Duke Energy Progress,2005,July,3361,
+Duke Energy Progress,2005,August,6965,
+Duke Energy Progress,2005,September,7145,
+Duke Energy Progress,2005,October,7561,
+Duke Energy Progress,2005,November,,
+Duke Energy Progress,2005,December,6202,
+Duke Energy Progress,2006,January,6162,
+Duke Energy Progress,2006,February,6622,
+Duke Energy Progress,2006,March,8283,
+Duke Energy Progress,2006,April,7283,
+Duke Energy Progress,2006,May,8919,
+Duke Energy Progress,2006,June,7490,
+Duke Energy Progress,2006,July,6441,
+Duke Energy Progress,2006,August,7747,
+Duke Energy Progress,2006,September,8884,
+Duke Energy Progress,2006,October,10498,
+Duke Energy Progress,2006,November,10361,
+Duke Energy Progress,2006,December,8256,
+Duke Energy Progress,2007,January,8770,
+Duke Energy Progress,2007,February,7687,
+Duke Energy Progress,2007,March,10607,
+Duke Energy Progress,2007,April,9632,
+Duke Energy Progress,2007,May,10607,
+Duke Energy Progress,2007,June,8261,
+Duke Energy Progress,2007,July,8100,
+Duke Energy Progress,2007,August,7998,
+Duke Energy Progress,2007,September,9633,
+Duke Energy Progress,2007,October,11144,
+Duke Energy Progress,2007,November,10189,
+Duke Energy Progress,2007,December,7196,
+Duke Energy Progress,2008,January,7814,
+Duke Energy Progress,2008,February,7474,
+Duke Energy Progress,2008,March,7843,
+Duke Energy Progress,2008,April,10137,
+Duke Energy Progress,2008,May,8769,
+Duke Energy Progress,2008,June,7561,
+Duke Energy Progress,2008,July,7029,
+Duke Energy Progress,2008,August,7491,
+Duke Energy Progress,2008,September,7920,
+Duke Energy Progress,2008,October,9579,
+Duke Energy Progress,2008,November,8410,
+Duke Energy Progress,2008,December,,
+Duke Energy Progress,2009,January,6230,
+Duke Energy Progress,2009,February,6591,
+Duke Energy Progress,2009,March,7398,
+Duke Energy Progress,2009,April,7766,
+Duke Energy Progress,2009,May,7106,
+Duke Energy Progress,2009,June,7023,
+Duke Energy Progress,2009,July,5788,
+Duke Energy Progress,2009,August,6183,
+Duke Energy Progress,2009,September,7860,
+Duke Energy Progress,2009,October,7933,
+Duke Energy Progress,2009,November,6724,
+Duke Energy Progress,2009,December,7093,
+Duke Energy Progress,2010,January,6464,0.6
+Duke Energy Progress,2010,February,6199,0.57
+Duke Energy Progress,2010,March,9115,0.84
+Duke Energy Progress,2010,April,,
+Duke Energy Progress,2010,May,8564,0.79
+Duke Energy Progress,2010,June,6443,0.6
+Duke Energy Progress,2010,July,5241,0.48
+Duke Energy Progress,2010,August,6530,0.6
+Duke Energy Progress,2010,September,7363,0.68
+Duke Energy Progress,2010,October,7852,0.73
+Duke Energy Progress,2010,November,8545,0.79
+Duke Energy Progress,2010,December,3501,0.32
+Duke Energy Progress,2011,January,5445,0.5
+Duke Energy Progress,2011,February,6704,0.62
+Duke Energy Progress,2011,March,9028,0.83
+Duke Energy Progress,2011,April,6240,0.57
+Duke Energy Progress,2011,May,7752,0.71
+Duke Energy Progress,2011,June,7610,0.7
+Duke Energy Progress,2011,July,4650,0.43
+Duke Energy Progress,2011,August,7972,0.73
+Duke Energy Progress,2011,September,8135,0.75
+Duke Energy Progress,2011,October,9689,0.89
+Duke Energy Progress,2011,November,8357,0.77
+Duke Energy Progress,2011,December,7503,0.69
+Duke Energy Progress,2012,January,7836,0.71
+Duke Energy Progress,2012,February,7535,0.69
+Duke Energy Progress,2012,March,8655,0.79
+Duke Energy Progress,2012,April,8382,0.76
+Duke Energy Progress,2012,May,8540,0.78
+Duke Energy Progress,2012,June,7495,0.68
+Duke Energy Progress,2012,July,6144,0.56
+Duke Energy Progress,2012,August,8049,0.73
+Duke Energy Progress,2012,September,7748,0.71
+Duke Energy Progress,2012,October,10247,0.93
+Duke Energy Progress,2012,November,8297,0.76
+Duke Energy Progress,2012,December,6599,0.6
+Duke Energy Progress,2013,January,7639,0.69
+Duke Energy Progress,2013,February,7448,0.67
+Duke Energy Progress,2013,March,6731,0.61
+Duke Energy Progress,2013,April,7696,0.7
+Duke Energy Progress,2013,May,8677,0.78
+Duke Energy Progress,2013,June,7422,0.67
+Duke Energy Progress,2013,July,7468,0.67
+Duke Energy Progress,2013,August,8041,0.73
+Duke Energy Progress,2013,September,7673,0.69
+Duke Energy Progress,2013,October,9392,0.85
+Duke Energy Progress,2013,November,6642,0.6
+Duke Energy Progress,2013,December,6417,0.58
+Duke Energy Progress,2014,January,,
+Duke Energy Progress,2014,February,5813,0.52
+Duke Energy Progress,2014,March,7078,0.64
+Duke Energy Progress,2014,April,8120,0.73
+Duke Energy Progress,2014,May,8803,0.8
+Duke Energy Progress,2014,June,7145,0.65
+Duke Energy Progress,2014,July,6291,0.57
+Duke Energy Progress,2014,August,6033,0.54
+Duke Energy Progress,2014,September,6453,0.58
+Duke Energy Progress,2014,October,7272,0.66
+Duke Energy Progress,2014,November,5772,0.52
+Duke Energy Progress,2014,December,6665,0.6
+Duke Energy Progress,2015,January,5469,0.49
+Duke Energy Progress,2015,February,3064,0.28
+Duke Energy Progress,2015,March,7413,0.67
+Duke Energy Progress,2015,April,6830,0.62
+Duke Energy Progress,2015,May,6436,0.58
+Duke Energy Progress,2015,June,5067,0.46
+Duke Energy Progress,2015,July,4667,0.42
+Duke Energy Progress,2015,August,5549,0.5
+Duke Energy Progress,2015,September,6218,0.56
+Duke Energy Progress,2015,October,6635,0.6
+Duke Energy Progress,2015,November,6162,0.56
+Duke Energy Progress,2015,December,6537,0.59
+Duke Energy Progress,2016,January,3556,0.31
+Duke Energy Progress,2016,February,5124,0.44
+Duke Energy Progress,2016,March,7544,0.65
+Duke Energy Progress,2016,April,6487,0.56
+Duke Energy Progress,2016,May,6487,0.56
+Duke Energy Progress,2016,June,5897,0.51
+Duke Energy Progress,2016,July,3789,0.33
+Duke Energy Progress,2016,August,6350,0.55
+Duke Energy Progress,2016,September,6394,0.55
+Duke Energy Progress,2016,October,3593,0.31
+Duke Energy Progress,2016,November,6724,0.58
+Duke Energy Progress,2016,December,5228,0.45
+Duke Energy Progress,2017,January,5287,0.45
+Duke Energy Progress,2017,February,5119,0.43
+Duke Energy Progress,2017,March,5863,0.5
+Duke Energy Progress,2017,April,4615,0.39
+Duke Energy Progress,2017,May,6342,0.54
+Duke Energy Progress,2017,June,6148,0.52
+Duke Energy Progress,2017,July,5064,0.43
+Duke Energy Progress,2017,August,5771,0.49
+Duke Energy Progress,2017,September,5365,0.45
+Duke Energy Progress,2017,October,9500,0.8
+Duke Energy Progress,2017,November,6754,0.57
+Duke Energy Progress,2017,December,5281,0.45
+Duke Energy Progress,2018,January,4536,0.38
+Duke Energy Progress,2018,February,5535,0.46
+Duke Energy Progress,2018,March,4975,0.41
+Duke Energy Progress,2018,April,,
+Duke Energy Progress,2018,May,5401,0.45
+Duke Energy Progress,2018,June,4331,0.36
+Duke Energy Progress,2018,July,3659,0.3
+Duke Energy Progress,2018,August,4280,0.36
+Duke Energy Progress,2018,September,923,0.08
+Duke Energy Progress,2018,October,3327,0.28
+Duke Energy Progress,2018,November,4351,0.36
+Duke Energy Progress,2018,December,1920,0.16
+Duke Energy Progress,2019,January,5323,0.44
+Duke Energy Progress,2019,February,5896,0.48
+Duke Energy Progress,2019,March,6436,0.53
+Duke Energy Progress,2019,April,6502,0.53
+Duke Energy Progress,2019,May,6423,0.53
+Duke Energy Progress,2019,June,6724,0.55
+Duke Energy Progress,2019,July,6901,0.57
+Duke Energy Progress,2019,August,8274,0.68
+Duke Energy Progress,2019,September,9359,0.77
+Duke Energy Progress,2019,October,11524,0.94
+Duke Energy Progress,2019,November,8992,0.74
+Duke Energy Progress,2019,December,7997,0.65
+Duke Energy Progress,2020,January,8260,0.68
+Duke Energy Progress,2020,February,8893,0.73
+Duke Energy Progress,2020,March,4201,0.34
+Duke Energy Progress,2020,April,0,0
+Duke Energy Progress,2020,May,0,0
+Duke Energy Progress,2020,June,0,0
+Duke Energy Progress,2020,July,0,0
+Duke Energy Progress,2020,August,0,0
+Duke Energy Progress,2020,September,0,0
+Duke Energy Progress,2020,October,0,0
+Duke Energy Progress,2020,November,12776,1.03
+Duke Energy Progress,2020,December,6309,0.51
+Duke Energy Progress,2021,January,7248,0.58
+Duke Energy Progress,2021,February,7230,0.58
+Duke Energy Progress,2021,March,2,0
+Duke Energy Progress,2021,April,0,0
+Duke Energy Progress,2021,May,352,0.03
+Duke Energy Progress,2021,June,4785,0.38
+Duke Energy Progress,2021,July,8219,0.65
+Duke Energy Progress,2021,August,8332,0.66
+Duke Energy Progress,2021,September,8458,0.67
+Duke Energy Progress,2021,October,1,0
+Duke Energy Progress,2021,November,0,0
+Duke Energy Progress,2021,December,0,0
+Duke Energy Progress,2022,January,0,0
+Duke Energy Progress,2022,February,9,0
+Duke Energy Progress,2022,March,81,0.01
+Duke Energy Progress,2022,April,179,0.01
+Duke Energy Progress,2022,May,1379,0.11
+Duke Energy Progress,2022,June,3422,0.27
+Duke Energy Progress,2022,July,3421,0.26
+Duke Energy Progress,2022,August,,
+Duke Energy Progress,2022,September,,
+Duke Energy Progress,2022,October,,
+Dominion Energy,2000,January,,
+Dominion Energy,2000,February,,
+Dominion Energy,2000,March,,
+Dominion Energy,2000,April,,
+Dominion Energy,2000,May,,
+Dominion Energy,2000,June,,
+Dominion Energy,2000,July,,
+Dominion Energy,2000,August,,
+Dominion Energy,2000,September,267,
+Dominion Energy,2000,October,315,
+Dominion Energy,2000,November,203,
+Dominion Energy,2000,December,,
+Dominion Energy,2001,January,27,
+Dominion Energy,2001,February,25,
+Dominion Energy,2001,March,148,
+Dominion Energy,2001,April,673,
+Dominion Energy,2001,May,573,
+Dominion Energy,2001,June,344,
+Dominion Energy,2001,July,448,
+Dominion Energy,2001,August,446,
+Dominion Energy,2001,September,415,
+Dominion Energy,2001,October,501,
+Dominion Energy,2001,November,393,
+Dominion Energy,2001,December,134,
+Dominion Energy,2002,January,76,
+Dominion Energy,2002,February,20,
+Dominion Energy,2002,March,,
+Dominion Energy,2002,April,503,
+Dominion Energy,2002,May,461,
+Dominion Energy,2002,June,363,
+Dominion Energy,2002,July,,
+Dominion Energy,2002,August,,
+Dominion Energy,2002,September,,
+Dominion Energy,2002,October,,
+Dominion Energy,2002,November,,
+Dominion Energy,2002,December,78,
+Dominion Energy,2003,January,49,
+Dominion Energy,2003,February,90,
+Dominion Energy,2003,March,207,
+Dominion Energy,2003,April,297,
+Dominion Energy,2003,May,311,
+Dominion Energy,2003,June,318,
+Dominion Energy,2003,July,338,
+Dominion Energy,2003,August,245,
+Dominion Energy,2003,September,82,
+Dominion Energy,2003,October,30,
+Dominion Energy,2003,November,152,
+Dominion Energy,2003,December,202,
+Dominion Energy,2004,January,29,
+Dominion Energy,2004,February,135,
+Dominion Energy,2004,March,468,
+Dominion Energy,2004,April,350,
+Dominion Energy,2004,May,267,
+Dominion Energy,2004,June,220,
+Dominion Energy,2004,July,117,
+Dominion Energy,2004,August,122,
+Dominion Energy,2004,September,430,
+Dominion Energy,2004,October,274,
+Dominion Energy,2004,November,163,
+Dominion Energy,2004,December,,
+Dominion Energy,2005,January,144,
+Dominion Energy,2005,February,237,
+Dominion Energy,2005,March,170,
+Dominion Energy,2005,April,264,
+Dominion Energy,2005,May,263,
+Dominion Energy,2005,June,180,
+Dominion Energy,2005,July,132,
+Dominion Energy,2005,August,226,
+Dominion Energy,2005,September,106,
+Dominion Energy,2005,October,128,
+Dominion Energy,2005,November,126,
+Dominion Energy,2005,December,24,
+Dominion Energy,2006,January,98,
+Dominion Energy,2006,February,251,
+Dominion Energy,2006,March,250,
+Dominion Energy,2006,April,317,
+Dominion Energy,2006,May,502,
+Dominion Energy,2006,June,448,
+Dominion Energy,2006,July,149,
+Dominion Energy,2006,August,468,
+Dominion Energy,2006,September,463,
+Dominion Energy,2006,October,696,
+Dominion Energy,2006,November,414,
+Dominion Energy,2006,December,168,
+Dominion Energy,2007,January,233,
+Dominion Energy,2007,February,390,
+Dominion Energy,2007,March,552,
+Dominion Energy,2007,April,580,
+Dominion Energy,2007,May,508,
+Dominion Energy,2007,June,369,
+Dominion Energy,2007,July,310,
+Dominion Energy,2007,August,362,
+Dominion Energy,2007,September,334,
+Dominion Energy,2007,October,448,
+Dominion Energy,2007,November,302,
+Dominion Energy,2007,December,290,
+Dominion Energy,2008,January,219,
+Dominion Energy,2008,February,410,
+Dominion Energy,2008,March,502,
+Dominion Energy,2008,April,415,
+Dominion Energy,2008,May,520,
+Dominion Energy,2008,June,598,
+Dominion Energy,2008,July,313,
+Dominion Energy,2008,August,283,
+Dominion Energy,2008,September,231,
+Dominion Energy,2008,October,342,
+Dominion Energy,2008,November,174,
+Dominion Energy,2008,December,357,
+Dominion Energy,2009,January,170,
+Dominion Energy,2009,February,233,
+Dominion Energy,2009,March,244,
+Dominion Energy,2009,April,343,
+Dominion Energy,2009,May,371,
+Dominion Energy,2009,June,458,
+Dominion Energy,2009,July,516,
+Dominion Energy,2009,August,474,
+Dominion Energy,2009,September,567,
+Dominion Energy,2009,October,551,
+Dominion Energy,2009,November,437,
+Dominion Energy,2009,December,266,
+Dominion Energy,2010,January,208,
+Dominion Energy,2010,February,79,
+Dominion Energy,2010,March,555,
+Dominion Energy,2010,April,387,
+Dominion Energy,2010,May,490,
+Dominion Energy,2010,June,560,
+Dominion Energy,2010,July,362,
+Dominion Energy,2010,August,298,
+Dominion Energy,2010,September,671,
+Dominion Energy,2010,October,651,
+Dominion Energy,2010,November,485,
+Dominion Energy,2010,December,55,
+Dominion Energy,2011,January,76,
+Dominion Energy,2011,February,360,
+Dominion Energy,2011,March,697,
+Dominion Energy,2011,April,468,
+Dominion Energy,2011,May,548,
+Dominion Energy,2011,June,579,
+Dominion Energy,2011,July,310,
+Dominion Energy,2011,August,518,
+Dominion Energy,2011,September,537,
+Dominion Energy,2011,October,565,
+Dominion Energy,2011,November,563,
+Dominion Energy,2011,December,329,
+Dominion Energy,2012,January,616,
+Dominion Energy,2012,February,418,
+Dominion Energy,2012,March,391,
+Dominion Energy,2012,April,404,
+Dominion Energy,2012,May,500,
+Dominion Energy,2012,June,531,
+Dominion Energy,2012,July,340,
+Dominion Energy,2012,August,674,
+Dominion Energy,2012,September,469,
+Dominion Energy,2012,October,547,
+Dominion Energy,2012,November,622,
+Dominion Energy,2012,December,398,
+Dominion Energy,2013,January,538,
+Dominion Energy,2013,February,513,
+Dominion Energy,2013,March,243,
+Dominion Energy,2013,April,650,
+Dominion Energy,2013,May,612,
+Dominion Energy,2013,June,624,
+Dominion Energy,2013,July,650,
+Dominion Energy,2013,August,587,
+Dominion Energy,2013,September,658,
+Dominion Energy,2013,October,748,
+Dominion Energy,2013,November,514,
+Dominion Energy,2013,December,270,
+Dominion Energy,2014,January,209,
+Dominion Energy,2014,February,395,
+Dominion Energy,2014,March,546,
+Dominion Energy,2014,April,624,
+Dominion Energy,2014,May,716,
+Dominion Energy,2014,June,729,
+Dominion Energy,2014,July,666,
+Dominion Energy,2014,August,684,
+Dominion Energy,2014,September,744,
+Dominion Energy,2014,October,714,
+Dominion Energy,2014,November,459,
+Dominion Energy,2014,December,359,
+Dominion Energy,2015,January,106,
+Dominion Energy,2015,February,64,
+Dominion Energy,2015,March,939,
+Dominion Energy,2015,April,765,
+Dominion Energy,2015,May,712,
+Dominion Energy,2015,June,674,
+Dominion Energy,2015,July,596,
+Dominion Energy,2015,August,727,
+Dominion Energy,2015,September,820,
+Dominion Energy,2015,October,713,
+Dominion Energy,2015,November,483,
+Dominion Energy,2015,December,428,
+Dominion Energy,2016,January,278,
+Dominion Energy,2016,February,360,
+Dominion Energy,2016,March,533,
+Dominion Energy,2016,April,520,
+Dominion Energy,2016,May,537,
+Dominion Energy,2016,June,511,
+Dominion Energy,2016,July,217,
+Dominion Energy,2016,August,523,
+Dominion Energy,2016,September,475,
+Dominion Energy,2016,October,385,
+Dominion Energy,2016,November,469,
+Dominion Energy,2016,December,317,
+Dominion Energy,2017,January,511,
+Dominion Energy,2017,February,484,
+Dominion Energy,2017,March,405,
+Dominion Energy,2017,April,527,
+Dominion Energy,2017,May,542,
+Dominion Energy,2017,June,629,
+Dominion Energy,2017,July,471,
+Dominion Energy,2017,August,593,
+Dominion Energy,2017,September,583,
+Dominion Energy,2017,October,633,
+Dominion Energy,2017,November,512,
+Dominion Energy,2017,December,245,
+Dominion Energy,2018,January,238,
+Dominion Energy,2018,February,588,
+Dominion Energy,2018,March,385,
+Dominion Energy,2018,April,663,
+Dominion Energy,2018,May,629,
+Dominion Energy,2018,June,522,
+Dominion Energy,2018,July,619,
+Dominion Energy,2018,August,482,
+Dominion Energy,2018,September,459,
+Dominion Energy,2018,October,791,
+Dominion Energy,2018,November,500,
+Dominion Energy,2018,December,203,
+Dominion Energy,2019,January,234,
+Dominion Energy,2019,February,523,
+Dominion Energy,2019,March,298,
+Dominion Energy,2019,April,637,
+Dominion Energy,2019,May,350,
+Dominion Energy,2019,June,471,
+Dominion Energy,2019,July,505,
+Dominion Energy,2019,August,358,
+Dominion Energy,2019,September,353,
+Dominion Energy,2019,October,557,
+Dominion Energy,2019,November,296,
+Dominion Energy,2019,December,233,
+Dominion Energy,2020,January,331,
+Dominion Energy,2020,February,452,
+Dominion Energy,2020,March,245,
+Dominion Energy,2020,April,0,
+Dominion Energy,2020,May,0,
+Dominion Energy,2020,June,0,
+Dominion Energy,2020,July,0,
+Dominion Energy,2020,August,0,
+Dominion Energy,2020,September,0,
+Dominion Energy,2020,October,0,
+Dominion Energy,2020,November,5,
+Dominion Energy,2020,December,22,
+Dominion Energy,2021,January,0,
+Dominion Energy,2021,February,0,
+Dominion Energy,2021,March,0,
+Dominion Energy,2021,April,0,
+Dominion Energy,2021,May,0,
+Dominion Energy,2021,June,0,
+Dominion Energy,2021,July,0,
+Dominion Energy,2021,August,0,
+Dominion Energy,2021,September,0,
+Dominion Energy,2021,October,140,
+Dominion Energy,2021,November,297,
+Dominion Energy,2021,December,179,
+Dominion Energy,2022,January,1,
+Dominion Energy,2022,February,136,
+Dominion Energy,2022,March,258,
+Dominion Energy,2022,April,183,
+Dominion Energy,2022,May,202,
+Dominion Energy,2022,June,100,
+Dominion Energy,2022,July,98,
+Dominion Energy,2022,August,,
+Dominion Energy,2022,September,,
+Dominion Energy,2022,October,,
